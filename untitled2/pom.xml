@@ -28,7 +28,7 @@
 
 
                     <includes>
-                        <exclude>**/*runner.java</exclude>
+                        <include>runner.java</include>
                     </includes>
               
  </configuration>
