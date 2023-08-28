@@ -26,11 +26,11 @@
 
 
 
- <configuration>
+
                     <includes>
                         <include>**/*runner.java</include>
                     </includes>
-                </configuration>
+              
 
 
                       
