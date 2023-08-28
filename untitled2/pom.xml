@@ -22,7 +22,7 @@
   <configuration>
         <reportsDirectory>${project.build.directory}/surefire-reports</reportsDirectory>
         <testFailureIgnore>false</testFailureIgnore>
-      </configuration>
+     
 
 
 
@@ -31,7 +31,7 @@
                         <include>**/*runner.java</include>
                     </includes>
               
-
+ </configuration>
 
                       
 
