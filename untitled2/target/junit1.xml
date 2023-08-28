@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="14.762" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="" name="Automate Facebook registration page using direct locators's in chrome browser" time="14.54">
+<system-out><![CDATA[
+Given Enter URL in  Browser.................................................passed
+When Click on new account button............................................passed
+And Enter all details in signup page........................................passed
+Then Submit the Sign up button..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
